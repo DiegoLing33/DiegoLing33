@@ -2,7 +2,7 @@
 
 Copyright: http://ling.black
 
-1️⃣ The important project of mine is [KIPFIN](https://github.com/DiegoLing33/kipfin). It's the application for Financial Univercity. It contains admission tools and profiles for the entrants. I reached the commendation for this project from the rector of the univercity. Application is here - http://kipfin.ru , but it contains the auth system, it means that if U wanna try - U should to sign in. (*I did the same project like this a year earlier, with `react`, but in 2020 I used `Vue`, it was a good experience*)
+1️⃣ The important project of mine is [KIPFIN](https://github.com/DiegoLing33/kipfin). It's the application for Financial Univercity. It contains admission tools and profiles for the entrants. I reached the commendation for this project from the rector of the univercity. Application is here - http://kipfin.ru , but it contains the auth system, it means that if U wanna try - U should to sign in. (*I did the same project like this a year earlier, with `React`, but in 2020 I used `Vue`, it was a good experience. U can find the react version in my pinned repositories list*)
 
 2️⃣ The best project (as for me) I ever developed is [WoW Guild Web Application](https://github.com/DiegoLing33/wow-guild-webapp). It's not offical, not for my work, but it contains the example of my code - comments, structuring and etc. Moreover, this project contains a lot of interesting snippets developed by my own. U can try it: http://prestij.xyz (*It's my own wow guild*)
 
