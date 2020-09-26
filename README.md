@@ -9,4 +9,4 @@ Copyright: http://ling.black
 ---
 #### Back-end development
 
-Yes, as I said I work with the back-end too. But I really dont want to publish my back-end projects, cuz its not good enough. I always had to write back-end, cuz I'm always develop everything with the best team - with my one. It will be like a grace if one day I will be able to write the front-end application with no back-end.
+Yes, as I said I work with the back-end too. But I really dont want to publish my back-end projects, cuz its not good enough. I always had to write back-end, cuz I'm always develop everything with the best team - with myself. It will be like a grace if one day I will be able to write the front-end application with no back-end.
