@@ -1,6 +1,6 @@
 ### Diego Ling
 
-Copyright: http://ling.black
+Copyright: https://notafoks.me
 
 1️⃣ The important project of mine is [KIPFIN](https://github.com/DiegoLing33/kipfin). It's the application for Financial Univercity. It contains admission tools and profiles for the entrants. I reached the commendation for this project from the rector of the univercity. Application is here - http://kipfin.ru , but it contains the auth system, it means that if U wanna try - U should to sign in. (*I did the same project like this a year earlier, with `React`, but in 2020 I used `Vue`, it was a good experience. U can find the react version in my pinned repositories list*)
 
