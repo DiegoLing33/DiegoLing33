@@ -1,4 +1,4 @@
-### Diego Ling
+### notafoks developer
 
 Copyright: https://notafoks.me
 
