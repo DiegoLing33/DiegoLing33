@@ -2,9 +2,11 @@
 
 Copyright: https://notafoks.me
 
-1️⃣ The important project of mine is [KIPFIN](https://github.com/DiegoLing33/kipfin). It's the application for Financial Univercity. It contains admission tools and profiles for the entrants. I reached the commendation for this project from the rector of the univercity. Application is here - http://kipfin.ru , but it contains the auth system, it means that if U wanna try - U should to sign in. (*I did the same project like this a year earlier, with `React`, but in 2020 I used `Vue`, it was a good experience. U can find the react version in my pinned repositories list*)
+1️⃣ The greatest projects that I developed in 2021-2022 were https://deziiign.com and https://geograffee.com
 
-2️⃣ One of the best projects (as for me) I ever developed is [WoW Guild Web Application](https://github.com/DiegoLing33/wow-guild-webapp). It's not offical, not for my work, but it contains the example of my code - comments, structuring and etc. Moreover, this project contains a lot of interesting snippets and solutions developed on my own. U can try it: http://prestij.xyz (*It's my own wow guild*)
+2️⃣ The important project of mine is [KIPFIN](https://github.com/DiegoLing33/kipfin). It's the application for Financial Univercity. It contains admission tools and profiles for the entrants. I reached the commendation for this project from the rector of the univercity. Application is here - http://kipfin.ru , but it contains the auth system, it means that if U wanna try - U should to sign in. (*I did the same project like this a year earlier, with `React`, but in 2020 I used `Vue`, it was a good experience. U can find the react version in my pinned repositories list*)
+
+3️⃣ One of the best projects (as for me) I ever developed is [WoW Guild Web Application](https://github.com/DiegoLing33/wow-guild-webapp). It's not offical, not for my work, but it contains the example of my code - comments, structuring and etc. Moreover, this project contains a lot of interesting snippets and solutions developed on my own. U can try it: http://prestij.xyz (*It's my own wow guild*)
 
 ---
 #### Back-end development
